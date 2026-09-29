@@ -41,7 +41,6 @@ try:
             result = value+273.15
             print("Result:",result,"K")
 
-        else:
-            print("Invalid choice. Please select a number from 1 to 11.")
+      
 
   
